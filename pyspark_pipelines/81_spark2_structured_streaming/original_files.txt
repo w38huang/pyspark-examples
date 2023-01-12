@@ -1,0 +1,5 @@
+
+apache-spark-2-structured-streaming
+(1) course: https://app.pluralsight.com/library/courses/apache-spark-2-structured-streaming/table-of-contents
+
+(2) ppts: cd /Users/zhuohuawu/Documents/zw_courses/pluralsight/Janani_Ravi/06_bigdata_path/81_apache-spark-2-structured-streaming/02/demos

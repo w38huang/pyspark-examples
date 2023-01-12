@@ -1,0 +1,13 @@
+
+1.
+
+(1) add graphframes in jupyter
+download: https://spark-packages.org/package/graphframes/graphframes
+
+cd /Users/zhuohuawu/anaconda/envs/tf2/lib/python3.7/site-packages/pyspark/jars
+cp /Users/zhuohuawu/Documents/zw_progs/graphframes/graphframes-0.8.1-spark3.0-s_2.12.jar .
+
+(2) add graphframes jar in pycharm:
+
+- project structure --> add content root
+

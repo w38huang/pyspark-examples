@@ -1,0 +1,6 @@
+
+1. StringIndexer vs OneHotEncoder:
+
+StringIndexer: convert categories to 0-based index
+OneHotEncoder: can only take 0-based index as input, can't take String-style categories as input.
+Normally, first use StringIndexer to encode as index, then feed to OneHotEncoder
