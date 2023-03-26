@@ -75,6 +75,5 @@ spark.sql("select Seqno, _nullsafeUDF(Name) as Name from NAME_TABLE2 " + \
      .show(truncate=False)  
 
 
-
  
 
